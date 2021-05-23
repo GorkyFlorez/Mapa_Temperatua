@@ -92,7 +92,7 @@ M<-leaflet() %>%
 
 # Gardar el mapa
 saveWidget ( M , file = "index.html" )
-htmlwidgets::saveWidget(M, "Mapa/Mapa de Temperatura del Peru.html")
+
 
 
 
